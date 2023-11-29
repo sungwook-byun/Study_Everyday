@@ -15,5 +15,11 @@
     <ClCompile Include="3day-logicaloperator.cpp">
       <Filter>main</Filter>
     </ClCompile>
+    <ClCompile Include="4day-conditional.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="4day-Variable.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

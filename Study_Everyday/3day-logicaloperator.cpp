@@ -28,7 +28,17 @@ int main()
 	IsTrue = true;
 	IsTrue = !IsTrue;
  
+	bool num = 100 && 200; // 참
+	num = 0 && 200;        // 거짓
 
+
+	// 구문
+	// if, else
+	// switch case
+
+
+	// 삼항 연산자
+	// :?
 
 	return 0;
 }
