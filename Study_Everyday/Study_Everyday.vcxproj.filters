@@ -6,19 +6,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1day-data.cpp">
+    <ClCompile Include="1day-Data.cpp">
       <Filter>main</Filter>
     </ClCompile>
-    <ClCompile Include="2day-operator.cpp">
+    <ClCompile Include="2day-Operator.cpp">
       <Filter>main</Filter>
     </ClCompile>
-    <ClCompile Include="3day-logicaloperator.cpp">
+    <ClCompile Include="3day-LogicalOperator.cpp">
       <Filter>main</Filter>
     </ClCompile>
-    <ClCompile Include="4day-conditional.cpp">
+    <ClCompile Include="4day-Conditional.cpp">
       <Filter>main</Filter>
     </ClCompile>
-    <ClCompile Include="4day-Variable.cpp">
+    <ClCompile Include="5day-Variable.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="6day-Loop.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="6day-BitwiseOperator.cpp">
       <Filter>main</Filter>
     </ClCompile>
   </ItemGroup>
