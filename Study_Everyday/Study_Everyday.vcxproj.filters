@@ -27,5 +27,8 @@
     <ClCompile Include="6day-BitwiseOperator.cpp">
       <Filter>main</Filter>
     </ClCompile>
+    <ClCompile Include="7day-Recursion.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

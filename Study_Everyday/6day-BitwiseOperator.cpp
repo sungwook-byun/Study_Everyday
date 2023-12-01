@@ -6,9 +6,27 @@
 #define COLD 8
 #define HOT 16
 
+// 함수 Factorial
+// 4! 이라고 가정 할 때
+int Factorial(int _iNum)
+{
+	int iValue = 1;
+
+	for (int j = 0; j < _iNum - 1; ++j)
+	{
+		iValue *= (j + 2);
+	}
+
+	return iValue;
+}
+
 
 int main()
 {
+	int iValue = Factorial(4);
+
+	iValue = Factorial(10);
+
 	// 비트 곱(&), 합(|), xor(^), 반전(~)
 	// 비트단위로 연산을 진행
 	// & 둘다 1인 경우 1
@@ -39,5 +57,5 @@ int main()
 		printf("추운 상태 입니다.\n");
 	}
 
-
 }
+
