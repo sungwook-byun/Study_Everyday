@@ -4,6 +4,9 @@
     <Filter Include="main">
       <UniqueIdentifier>{45ad165b-9077-483e-b6ff-4253ef096266}</UniqueIdentifier>
     </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{ae3d157d-492c-4c97-8c75-b9874b9a3d57}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1day-Data.cpp">
@@ -33,5 +36,28 @@
     <ClCompile Include="8day-Array.cpp">
       <Filter>main</Filter>
     </ClCompile>
+    <ClCompile Include="func.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9day-Division.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="Extern.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9day-Pointer.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="9day-PointerVar.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="func.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="common.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
