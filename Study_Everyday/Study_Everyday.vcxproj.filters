@@ -51,6 +51,9 @@
     <ClCompile Include="9day-PointerVar.cpp">
       <Filter>main</Filter>
     </ClCompile>
+    <ClCompile Include="exam.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="func.h">
